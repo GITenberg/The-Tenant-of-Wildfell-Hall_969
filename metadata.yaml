@@ -1,0 +1,108 @@
+_repo: The-Tenant-of-Wildfell-Hall_969
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Ward, Humphry, Mrs.
+    aliases:
+    - Ward, Mary Augusta Arnold
+    - Ward, Mrs. Humphry
+    - Arnold, Mary Augusta
+    birthdate: 1851
+    deathdate: 1920
+    gutenberg_agent_id: '2629'
+    url: http://www.gutenberg.org/2009/agents/2629
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Augusta_Ward
+creator:
+  author:
+    agent_name: Brontë, Anne
+    aliases:
+    - Bronte, Anne
+    - Bell, Acton
+    birthdate: 1820
+    deathdate: 1849
+    gutenberg_agent_id: '404'
+    url: http://www.gutenberg.org/2009/agents/404
+    wikipedia: http://en.wikipedia.org/wiki/Anne_Bront%C3%AB
+description: "The Tenant of Wildfell Hall is the second and final novel by the English\
+  \ author Anne Brontë. It was first published in 1848 under the pseudonym Acton Bell.\
+  \ Probably the most shocking of the Brontës' novels, it had an instant and phenomenal\
+  \ success, but after Anne's death her sister Charlotte prevented its re-publication.\n\
+  The novel is framed as a series of letters from Gilbert Markham to his friend and\
+  \ brother-in-law about the events leading to his meeting his wife.\nA mysterious\
+  \ young widow arrives at Wildfell Hall, an Elizabethan mansion which has been empty\
+  \ for many years, with her young son and servant. She lives there in strict seclusion\
+  \ under the assumed name Helen Graham and very soon finds herself the victim of\
+  \ local slander. Refusing to believe anything scandalous about her, Gilbert Markham,\
+  \ a young farmer, discovers her dark secrets. In her diary, Helen writes about her\
+  \ husband's physical and moral decline through alcohol, and the world of debauchery\
+  \ and cruelty from which she has fled. This novel of marital betrayal is set within\
+  \ a moral framework tempered by Anne's optimistic belief in universal salvation.\n\
+  The Tenant of Wildfell Hall is mainly considered to be one of the first sustained\
+  \ feminist novels.\nMay Sinclair, in 1913, said that the slamming of Helen's bedroom\
+  \ door against her husband reverberated throughout Victorian England. In escaping\
+  \ her husband, Helen violates not only social conventions, but also English law.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1997-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '969'
+  wikidata: Q44701
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Married women -- Fiction'
+- !lcsh 'Landlord and tenant -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Alcoholics -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The Tenant of Wildfell Hall
+url: http://www.gutenberg.org/ebooks/969
+wikipedia:
+- https://fi.wikipedia.org/wiki/Wildfell_Hallin_asukas
+- https://eo.wikipedia.org/wiki/The_Tenant_of_Wildfell_Hall
+- https://fa.wikipedia.org/wiki/%D9%85%D8%B3%D8%AA%D8%A3%D8%AC%D8%B1_%D8%B9%D9%85%D8%A7%D8%B1%D8%AA_%D9%88%D8%A7%DB%8C%D9%84%D8%AF%D9%81%D9%84
+- https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_t%C3%A1_%C4%91i%E1%BB%81n_%C4%91%E1%BB%93i_Wildfell
+- https://en.wikisource.org/wiki/The_Tenant_of_Wildfell_Hall
+- https://uk.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B7%D0%BD%D0%B0%D0%B9%D0%BE%D0%BC%D0%BA%D0%B0_%D0%B7_%D0%92%D1%96%D0%BB%D0%B4%D1%84%D0%B5%D0%BB-%D0%A5%D0%BE%D0%BB%D1%83
+- https://gl.wikipedia.org/wiki/The_Tenant_of_Wildfell_Hall
+- https://sv.wikipedia.org/wiki/Fr%C3%A4mlingen_p%C3%A5_Wildfell_Hall
+- https://az.wikipedia.org/wiki/Uayldfell-Holldan_olan_yad_qad%C4%B1n
+- https://ja.wikipedia.org/wiki/%E3%83%AF%E3%82%A4%E3%83%AB%E3%83%89%E3%83%95%E3%82%A7%E3%83%AB%E3%83%BB%E3%83%9B%E3%83%BC%E3%83%AB%E3%81%AE%E4%BD%8F%E4%BA%BA
+- https://pt.wikipedia.org/wiki/The_Tenant_of_Wildfell_Hall
+- https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D0%BD%D0%B0%D1%80%D0%BA%D0%B0_%D0%BD%D0%B0%D0%BF%D1%83%D1%88%D1%82%D0%B5%D0%BD%D0%BE%D0%B3_%D0%B7%D0%B0%D0%BC%D0%BA%D0%B0
+- https://es.wikipedia.org/wiki/La_inquilina_de_Wildfell_Hall
+- https://sk.wikipedia.org/wiki/Tajomn%C3%A1_pani_Grahamov%C3%A1
+- https://en.wikipedia.org/wiki/The_Tenant_of_Wildfell_Hall
+- https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D0%BA%D0%B0_%D0%B8%D0%B7_%D0%A3%D0%B0%D0%B9%D0%BB%D0%B4%D1%84%D0%B5%D0%BB%D0%BB-%D0%A5%D0%BE%D0%BB%D0%BB%D0%B0
+- https://ro.wikipedia.org/wiki/Necunoscuta_de_la_Wildfell_Hall
+- https://ko.wikipedia.org/wiki/%EC%99%80%EC%9D%BC%EB%93%9C%ED%8E%A0_%ED%99%80%EC%9D%98_%EC%86%8C%EC%9E%91%EC%9D%B8
+- https://et.wikipedia.org/wiki/Wildfelli_h%C3%A4rrastemaja_rentnik
+- https://fr.wikipedia.org/wiki/La_Recluse_de_Wildfell_Hall
+- https://zh.wikipedia.org/wiki/%E8%8D%92%E9%87%8E%E5%BA%84%E5%9B%AD%E7%9A%84%E6%88%BF%E5%AE%A2
+- https://bs.wikipedia.org/wiki/Stanarka_napu%C5%A1tene_ku%C4%87e
+- https://pl.wikipedia.org/wiki/Lokatorka_Wildfell_Hall
+- https://hu.wikipedia.org/wiki/Wildfell_asszonya
+- https://simple.wikipedia.org/wiki/The_Tenant_of_Wildfell_Hall
+- https://ru.wikiquote.org/wiki/%D0%9D%D0%B5%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D0%BA%D0%B0_%D0%B8%D0%B7_%D0%A3%D0%B0%D0%B9%D0%BB%D0%B4%D1%84%D0%B5%D0%BB%D0%BB-%D0%A5%D0%BE%D0%BB%D0%BB%D0%B0
+- https://mk.wikipedia.org/wiki/%D0%97%D0%B0%D0%BA%D1%83%D0%BF%D0%BD%D0%B8%D1%87%D0%BA%D0%B0%D1%82%D0%B0_%D0%BD%D0%B0_%D0%92%D0%B0%D1%98%D0%BB%D0%B4%D1%84%D0%B5%D0%BB_%D0%A5%D0%BE%D0%BB
+- https://ar.wikipedia.org/wiki/%D9%86%D8%B2%D9%8A%D9%84_%D9%82%D8%A7%D8%B9%D8%A9_%D9%88%D9%8A%D9%84%D8%AF%D9%81%D9%8A%D9%84
+- https://nl.wikipedia.org/wiki/De_huurster_van_Wildfell_Hall
+- https://id.wikipedia.org/wiki/The_Tenant_of_Wildfell_Hall
+- https://sl.wikipedia.org/wiki/Gospa_s_pustega_brega
+- https://cs.wikipedia.org/wiki/Dvoj%C3%AD_%C5%BEivot_Heleny_Grahamov%C3%A9
+- https://de.wikipedia.org/wiki/Die_Herrin_von_Wildfell_Hall
+- https://lv.wikipedia.org/wiki/Vaildfelholas_iem%C4%ABtniece
+- https://eu.wikipedia.org/wiki/The_Tenant_of_Wildfell_Hall
+- https://cy.wikipedia.org/wiki/The_Tenant_of_Wildfell_Hall
+- https://bg.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B9%D0%BD%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%B0%D1%82%D0%B0_%D0%BD%D0%B5%D0%BF%D0%BE%D0%B7%D0%BD%D0%B0%D1%82%D0%B0
+- https://it.wikipedia.org/wiki/La_signora_di_Wildfell_Hall
+- https://no.wikipedia.org/wiki/Kvinnen_p%C3%A5_Wildfell_Hall
+- https://hr.wikipedia.org/wiki/Stanarka_napu%C5%A1tene_ku%C4%87e
+- https://ca.wikipedia.org/wiki/La_llogatera_de_Wildfell_Hall
+- https://tr.wikipedia.org/wiki/%C5%9Eatodaki_Kad%C4%B1n
+- https://he.wikipedia.org/wiki/%D7%94%D7%93%D7%99%D7%99%D7%A8%D7%AA_%D7%9E%D7%90%D7%97%D7%95%D7%96%D7%AA_%D7%95%D7%99%D7%99%D7%9C%D7%93%D7%A4%D7%99%D7%9C
